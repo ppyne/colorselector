@@ -1,6 +1,6 @@
 # Color Selector
 
-Project under development (2018). This is a color picker, which mimics the one from of Photoshop (with RGB, HSB, Lab, CMYK, web colors filter), implemented in JS/WebGL, with a new feature that let you know the name of the closest HTML/CSS color ([cf. w3c](https://www.w3.org/wiki/CSS/Properties/color/keywords)).
+Project under development (2018). This is a color picker, which mimics the one from Photoshop (with RGB, HSB, Lab, CMYK, web colors filter), implemented in JS/WebGL, with a new feature that let you know the name of the closest HTML/CSS color ([cf. w3c](https://www.w3.org/wiki/CSS/Properties/color/keywords)).
 
 At this stage of development, the software has only been tested on Google Chrome, on the Macintosh. Please use Chrome to test.
 
