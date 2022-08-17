@@ -4,9 +4,13 @@ Project under development (2018). This is a color picker, which mimics the one f
 
 At this stage of development, the software has only been tested on Google Chrome, on the Macintosh. Please use Chrome to test.
 
-Here are some screenshots to illustrate some features:
+## Demo
 
-## HSB
+You can try it [here](https://ppyne.github.io/colorselector/).
+
+## Screenshots
+
+Here are some screenshots to illustrate some features:
 
 HSB Profile (H)
 
